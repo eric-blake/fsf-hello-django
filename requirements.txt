@@ -1,6 +1,7 @@
 asgiref==3.7.2
 astroid==2.15.8
 coverage==7.3.2
+dj-database-url==0.5.0
 Django==3.2.21
 gunicorn==21.2.0
 lazy-object-proxy==1.9.0
